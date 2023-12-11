@@ -38,7 +38,7 @@ Data processing played a pivotal role in ensuring the dataset's suitability for 
   onsistently achieved impressive training accuracies ranging between 50% to 90%. The strategic deployment of this model resulted in a test accuracy of 55%, affirming its 
   effectiveness in accurately predicting game ratings.
 
-![image](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/assets/90558252/c2e2ab01-7224-47cc-903b-10edaeb1d573)
+  ![image](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/assets/90558252/c2e2ab01-7224-47cc-903b-10edaeb1d573)
 
   - Q2 - Categorizing Games into Genres:
   In the pursuit of categorizing games into genres, the application of classification algorithms (Random Forest Classification) proved fruitful. The deployed models
@@ -49,7 +49,7 @@ Data processing played a pivotal role in ensuring the dataset's suitability for 
   demonstrated effectiveness in predicting numerical values, showcasing its utility in forecasting game plays. The results were validated through rigorous testing, 
   roviding insights into the potential success of this predictive model.
 
-![image](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/assets/90558252/c5afb53c-6103-4a9a-ab3c-a67296d671ef)
+  ![image](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/assets/90558252/c5afb53c-6103-4a9a-ab3c-a67296d671ef)
 
   - Overall Performance:
   The overall success of the deployed models highlight the effectiveness of the chosen techniques and algorithms in addressing the specific research questions.
