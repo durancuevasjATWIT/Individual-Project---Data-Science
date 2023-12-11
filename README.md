@@ -8,3 +8,6 @@ The dataset used for this project contains information about various games, incl
 
 ## Methods
   ### Tools
+ - NumPy, SciPy, Pandas for data analysis
+ - Scikit-learn for Machine Learning
+ - Jupyter as IDE
