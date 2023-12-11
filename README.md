@@ -22,21 +22,19 @@ Data preprocessing played a pivotal role in ensuring the dataset's suitability f
   - GitHub: Version control
 
    ### Methods used with scikit:
-   Random Forest Regression - it is a powerful machine learning algorithm that belongs to the ensemble learning family. It operates by constructing
+   - Random Forest Regression - it is a powerful machine learning algorithm that belongs to the ensemble learning family. It operates by constructing
    multiple decision trees during training and outputs the average prediction of the individual trees for regression tasks. This method excels in capturing complex
-   relationships within the data, providing a robust and flexible solution for predicting numerical outcomes, such as game ratings and plays in this project.
-   
+   relationships within the data, providing a robust and flexible solution for predicting numerical outcomes, such as game ratings and plays in this project.   
    The choice of Random Forest Regression in this context is driven by several key advantages. Firstly, Random Forests are less prone to overfitting compared to individual
    decision trees, as they aggregate predictions from multiple trees, mitigating the risk of capturing noise in the data. Secondly, this algorithm requires minimal
    hyperparameter tuning while still delivering high predictive accuracy. The RandomForestRegressor module from the scikit-learn library was specifically chosen for its
-   efficient implementation and ease of use, enabling a seamless integration into the project's pipeline.
-   
+   efficient implementation and ease of use, enabling a seamless integration into the project's pipeline.   
    Despite its strengths, it's important to acknowledge that Random Forest Regression comes with its own considerations. Interpretability can be a challenge as the ensemble
    nature of the algorithm makes it less straightforward to trace predictions back to individual features. Additionally, the computational cost may be higher compared to
    simpler models, although this trade-off is often acceptable given the algorithm's superior performance in capturing intricate patterns within the dataset.
    
-
    ### Features
+   
 
    ### Pipeline
 
