@@ -29,6 +29,7 @@ Data preprocessing played a pivotal role in ensuring the dataset's suitability f
    - Use of ColumnTransformer, StandardScaler, and SimpleImputer constitutes a robust and comprehensive data preprocessing pipeline. ColumnTransformer, adeptly transforms categorical features into a binary matrix, facilitating their integration into machine learning models. Concurrently, StandardScaler meticulously standardizes numerical features, ensuring uniformity in scale and preventing any single feature from unduly influencing model outcomes. The inclusion of SimpleImputer addresses missing values strategically, offering a streamlined approach to handle gaps in the dataset. This orchestrated combination not only harmonizes the treatment of diverse feature types but also fortifies the dataset against common challenges, thereby laying a solid foundation for subsequent model training and predictions. The holistic nature of this reprocessing strategy contributes significantly to the model's robustness, adaptability, and capacity to glean meaningful insights from the given data.   
 
    ### Pipeline
+   ![image](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/assets/90558252/a58a1ef6-1863-4089-b14e-f7c5eec84e72)
 
 ## Result
 
