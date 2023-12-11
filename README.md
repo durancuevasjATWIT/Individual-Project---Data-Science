@@ -34,7 +34,7 @@ Data preprocessing played a pivotal role in ensuring the dataset's suitability f
 
 ## Result
 
-  #### Q1 - Predicting Game Ratings:
+  #### - Q1 Predicting Game Ratings:
   The exploration of various feature engineering techniques and regression algorithms yielded compelling results for predicting game ratings. Random Forest Regression, 
   onsistently achieved impressive training accuracies ranging between 50% to 90%. The strategic deployment of this model resulted in a test accuracy of 55%, affirming its 
   effectiveness in accurately predicting game ratings.
