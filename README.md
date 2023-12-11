@@ -11,7 +11,7 @@ Data Preview
 
 The dataset encompassed over a thousand samples, reflecting a mix of categorical and numerical variables. The decision to employ this dataset was motivated by its relevance to gaming analytics and the availability of features conducive to machine learning exploration.
 
-Data preprocessing played a pivotal role in ensuring the dataset's suitability for modeling, ensuring their compatibility with machine learning algorithms. StandardScaler was applied to facilitate feature scaling, and SimpleImputer which addressed missing values.
+Data processing played a pivotal role in ensuring the dataset's suitability for modeling, ensuring their compatibility with machine learning algorithms. StandardScaler was applied to facilitate feature scaling, and SimpleImputer which addressed missing values.
 
 ## Methods
   ### Tools
