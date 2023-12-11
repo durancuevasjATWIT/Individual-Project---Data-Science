@@ -7,3 +7,4 @@ The objective of this project is to explore the possibility of predicting the ra
 The dataset used for this project contains information about various games, including features such as genre, platform, release year, and more. The data is sourced from [[Kaggle](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)]. The goal is to predict the rating of a game based on its attributes.
 
 ## Methods
+  ### Tools
