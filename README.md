@@ -1,10 +1,13 @@
 # Individual Project - Data Science
 
 ## Introduction
-The objective of this project is to explore the possibility of predicting different types of values such as (Rating, Genres, and plays) using its characteristics. The project uses different types of models as well as some tools which include NumPy, SciPy, Pandas and Scikit-learn for data analysis and inference. 
+The motivation and objective behind this comprehensive project was to delve and explore into the analysis of a dataset comprising various game-related attributes. The primary research questions focused on predicting game ratings, categorizing games into genres, and forecasting the number of plays a game might receive. These questions formed the tested hypotheses, driving the purpose of the research which use different types of models as well as some tools which include NumPy, SciPy, Pandas and Scikit-learn for data analysis and inference.
 
 ## Data Selection
-The dataset used for this project contains information about various games, including features such as genre, platform, release year, and more. The data is sourced from [[Kaggle](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)]. The goal is to predict the rating of a game based on its attributes.
+The dataset used for this project contains information about various games, including features such as genre, platform, release year, and more. The data is sourced from [[Kaggle](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)].
+
+  ### Data Preview
+  ![alt text]([http://url/to/img.png](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/blob/main/Graphs/Dataset-Sample.png?raw=true))
 
 ## Methods
   ### Tools
