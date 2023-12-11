@@ -6,8 +6,9 @@ The motivation and objective behind this comprehensive project was to delve and 
 ## Data Selection
 The dataset used for this project contains information about various games, including features such as genre, platform, release year, and more. The data is sourced from [[Kaggle](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)].
 
-  ### Data Preview
-  ![alt text]([http://url/to/img.png](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/blob/main/Graphs/Dataset-Sample.png?raw=true))
+Data Preview
+![image](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/assets/90558252/76b8da6a-631e-4c23-a4ea-bbbc545684f8)
+
 
 ## Methods
   ### Tools
