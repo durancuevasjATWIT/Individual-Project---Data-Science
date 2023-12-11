@@ -29,7 +29,7 @@ Data preprocessing played a pivotal role in ensuring the dataset's suitability f
 
    ### Pipeline
    Pipeline features explaines above!
-   ![image](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/assets/90558252/a58a1ef6-1863-4089-b14e-f7c5eec84e72)
+   - ![image](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/assets/90558252/a58a1ef6-1863-4089-b14e-f7c5eec84e72)
 
 ## Results
 
