@@ -11,3 +11,15 @@ The dataset used for this project contains information about various games, incl
  - NumPy, SciPy, Pandas for data analysis
  - Scikit-learn for Machine Learning
  - Jupyter as IDE
+
+   ### Methods used with scikit:
+
+   ### Features
+
+   ### Pipeline
+
+## Result
+
+## Discussion
+
+## Summary
