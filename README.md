@@ -29,5 +29,8 @@ Data preprocessing played a pivotal role in ensuring the dataset's suitability f
 ## Result
 
 ## Discussion
+In my exploration of game analytics, I found success in using different techniques and algorithms to enhance predictions. Notably, Random Forest Regression consistently achieved high training accuracies, even more than Linear Regression ranging from 50% to 90%. Encouraged by this performance, I made a Random Forest Regression model, aiming for efficiency and accuracy in predicting game ratings, categorizing genres, and forecasting play counts. The model's effectiveness was confirmed with a test accuracy ranging from 50% to 90% as stated before.
+
+Digging into the details of the training data, I performed extensive analysis to understand why it was not easy to achieve higher accuracy, which led me to having to test different models while trying different types of techniques to see which one gave the best results. This also challenged me to delve deeper into the relationships between different features, looking for nuanced information to improve predictions.
 
 ## Summary
