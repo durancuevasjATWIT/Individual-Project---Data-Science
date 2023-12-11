@@ -37,6 +37,7 @@ Data processing played a pivotal role in ensuring the dataset's suitability for 
   The exploration of various feature engineering techniques and regression algorithms yielded compelling results for predicting game ratings. Random Forest Regression, 
   onsistently achieved impressive training accuracies ranging between 50% to 90%. The strategic deployment of this model resulted in a test accuracy of 55%, affirming its 
   effectiveness in accurately predicting game ratings.
+
 ![image](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/assets/90558252/c2e2ab01-7224-47cc-903b-10edaeb1d573)
 
   - Q2 - Categorizing Games into Genres:
@@ -47,6 +48,7 @@ Data processing played a pivotal role in ensuring the dataset's suitability for 
   The endeavor to forecast the number of plays a game would receive involved the application of Random Forest Regression. Notably, the Random Forest Regression model
   demonstrated effectiveness in predicting numerical values, showcasing its utility in forecasting game plays. The results were validated through rigorous testing, 
   roviding insights into the potential success of this predictive model.
+
 ![image](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/assets/90558252/c5afb53c-6103-4a9a-ab3c-a67296d671ef)
 
   - Overall Performance:
