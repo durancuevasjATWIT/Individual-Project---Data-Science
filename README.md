@@ -16,9 +16,11 @@ Data preprocessing played a pivotal role in ensuring the dataset's suitability f
 
 ## Methods
   ### Tools
- - NumPy, SciPy, Pandas for data analysis
- - Scikit-learn for Machine Learning
- - Jupyter as IDE
+  Sklearn: Machline learning library used for creating test and train sets
+  Pandas + Numpy: Data manipulation
+  Seaborn + Matplotlib: Data visualization
+  Jupyter: Development notebook
+  GitHub: Version control
 
    ### Methods used with scikit:
 
