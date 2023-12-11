@@ -11,7 +11,7 @@ Data Preview
 
 The dataset encompassed over a thousand samples, reflecting a mix of categorical and numerical variables. The decision to employ this dataset was motivated by its relevance to gaming analytics and the availability of features conducive to machine learning exploration.
 
-Data preprocessing played a pivotal role in ensuring the dataset's suitability for modeling. Categorical variables underwent encoding using OneHotEncoder, ensuring their compatibility with machine learning algorithms. StandardScaler was applied to facilitate feature scaling, and SimpleImputer which addressed missing values.
+Data preprocessing played a pivotal role in ensuring the dataset's suitability for modeling, ensuring their compatibility with machine learning algorithms. StandardScaler was applied to facilitate feature scaling, and SimpleImputer which addressed missing values.
 
 ## Methods
   ### Tools
@@ -32,7 +32,7 @@ Data preprocessing played a pivotal role in ensuring the dataset's suitability f
    Pipeline features explaines above!
    ![image](https://github.com/durancuevasjATWIT/Individual-Project---Data-Science/assets/90558252/a58a1ef6-1863-4089-b14e-f7c5eec84e72)
 
-## Result
+## Results
 
   - Q1 Predicting Game Ratings:
   The exploration of various feature engineering techniques and regression algorithms yielded compelling results for predicting game ratings. Random Forest Regression, 
