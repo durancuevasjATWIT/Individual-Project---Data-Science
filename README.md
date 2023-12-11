@@ -34,3 +34,8 @@ In my exploration of game analytics, I found success in using different techniqu
 Digging into the details of the training data, I performed extensive analysis to understand why it was not easy to achieve higher accuracy, which led me to having to test different models while trying different types of techniques to see which one gave the best results. This also challenged me to delve deeper into the relationships between different features, looking for nuanced information to improve predictions.
 
 ## Summary
+In summary, my exploration into game analytics centered around achieving accurate predictions using various techniques and algorithms. Notably, Random Forest Regression consistently demonstrated strong training accuracies, ranging between 50% and 90%. This success led to the strategic deployment of a well-crafted Random Forest Regression model, prioritizing efficiency and accuracy in predicting game ratings, categorizing genres, and forecasting play counts. The model's effectiveness was affirmed by a commendable test accuracy of 50% - 90%.
+
+## References
+
+- [[Kaggle](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)].
