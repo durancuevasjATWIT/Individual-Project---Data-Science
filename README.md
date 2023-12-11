@@ -28,6 +28,24 @@ Data preprocessing played a pivotal role in ensuring the dataset's suitability f
 
 ## Result
 
+  ### Predicting Game Ratings:
+  The exploration of various feature engineering techniques and regression algorithms yielded compelling results for predicting game ratings. Random Forest Regression, 
+  onsistently achieved impressive training accuracies ranging between 50% to 90%. The strategic deployment of this model resulted in a test accuracy of 55%, affirming its 
+  effectiveness in accurately predicting game ratings.
+
+  ### Categorizing Games into Genres:
+  In the pursuit of categorizing games into genres, the application of classification algorithms (Random Forest Classification) proved fruitful. The deployed models
+  exhibited robust performance, showcasing the ability to accurately classify games into their respective genres.
+
+  ### Predicting Game Plays:
+  The endeavor to forecast the number of plays a game would receive involved the application of Random Forest Regression. Notably, the Random Forest Regression model
+  demonstrated effectiveness in predicting numerical values, showcasing its utility in forecasting game plays. The results were validated through rigorous testing, 
+  roviding insights into the potential success of this predictive model.
+
+  ### Overall Performance:
+  The overall success of the deployed models highlight the effectiveness of the chosen techniques and algorithms in addressing the specific research questions.
+
+
 ## Discussion
 In my exploration of game analytics, I found success in using different techniques and algorithms to enhance predictions. Notably, Random Forest Regression consistently achieved high training accuracies, even more than Linear Regression ranging from 50% to 90%. Encouraged by this performance, I made a Random Forest Regression model, aiming for efficiency and accuracy in predicting game ratings, categorizing genres, and forecasting play counts. The model's effectiveness was confirmed with a test accuracy ranging from 50% to 90% as stated before.
 
